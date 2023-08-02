@@ -18,7 +18,7 @@
 
 #### 5. Mock logging in --> [File](./5-app.py) | [HTML file](./templates/5-index.html)
 
-#### 6. Use user locale --> [File](./6-app.py) | [HTML file](./templates/6-index.html)
+#### 6. Use user locale --> [File](./6-app.py) | [HTML file](./templates/6-index.html)cd
 
 #### 7. Infer appropriate time zone --> [ [File](./7-app.py) | [HTML file](./templates/7-index.html)
 
